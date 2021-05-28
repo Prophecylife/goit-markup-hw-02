@@ -74,6 +74,10 @@ body {
   text-decoration: none;
 }
 
+.link.current {
+  color: var(--accent-color);
+}
+
 .site-nav .link:hover,
 .site-nav .link:focus {
   color: var(--accent-color);
